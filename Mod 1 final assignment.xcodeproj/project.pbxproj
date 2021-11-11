@@ -14,6 +14,7 @@
 		3AC6CD6E273B492900362725 /* Card 2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AC6CD6D273B492900362725 /* Card 2.swift */; };
 		3AC6CD70273B4E9000362725 /* card 3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AC6CD6F273B4E9000362725 /* card 3.swift */; };
 		3AC6CD72273C963E00362725 /* Card 4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AC6CD71273C963E00362725 /* Card 4.swift */; };
+		3AC6CD74273C999D00362725 /* Card 5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AC6CD73273C999D00362725 /* Card 5.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		3AC6CD6D273B492900362725 /* Card 2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Card 2.swift"; sourceTree = "<group>"; };
 		3AC6CD6F273B4E9000362725 /* card 3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "card 3.swift"; sourceTree = "<group>"; };
 		3AC6CD71273C963E00362725 /* Card 4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Card 4.swift"; sourceTree = "<group>"; };
+		3AC6CD73273C999D00362725 /* Card 5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Card 5.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				3AC6CD6D273B492900362725 /* Card 2.swift */,
 				3AC6CD6F273B4E9000362725 /* card 3.swift */,
 				3AC6CD71273C963E00362725 /* Card 4.swift */,
+				3AC6CD73273C999D00362725 /* Card 5.swift */,
 				3AC6CD63273B08E200362725 /* Assets.xcassets */,
 				3AC6CD65273B08E200362725 /* Preview Content */,
 			);
@@ -148,6 +151,7 @@
 			files = (
 				3AC6CD70273B4E9000362725 /* card 3.swift in Sources */,
 				3AC6CD62273B08E000362725 /* ContentView.swift in Sources */,
+				3AC6CD74273C999D00362725 /* Card 5.swift in Sources */,
 				3AC6CD60273B08E000362725 /* Mod_1_final_assignmentApp.swift in Sources */,
 				3AC6CD72273C963E00362725 /* Card 4.swift in Sources */,
 				3AC6CD6E273B492900362725 /* Card 2.swift in Sources */,
